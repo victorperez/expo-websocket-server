@@ -1,0 +1,9 @@
+{
+  "platforms": ["android"],
+  "apple": {
+    "modules": ["ExpoWebsocketServerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.websocketserver.ExpoWebsocketServerModule"]
+  }
+}
