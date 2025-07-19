@@ -4,6 +4,6 @@
     "modules": ["ExpoWebsocketServerModule"]
   },
   "android": {
-    "modules": ["expo.modules.websocketserver.ExpoWebsocketServerModule"]
+    "modules": ["ExpoWebsocketServerModule"]
   }
 }
